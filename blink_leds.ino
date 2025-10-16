@@ -27,12 +27,12 @@ void loop()
   
   // delay() pausa o programa por um tempo em milissegundos
   // 1000 milissegundos = 1 segundo
-  delay(1000); // Wait for 1000 millisecond(s)
+  delay(1000); // Aguarda por 1000 milissegundos (1 segundo)
   
   // LOW significa desligar (apagar o LED) - envia 0V para o pino
   digitalWrite(LED_BUILTIN, LOW);
   digitalWrite(9, LOW);
   
   // Aguarda mais 1 segundo antes de repetir o ciclo
-  delay(1000); // Wait for 1000 millisecond(s)
+  delay(1000); // Aguarda por 1000 milissegundos (1 segundo)
 }
