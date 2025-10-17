@@ -7,4 +7,8 @@ O projeto inicial foi o clássico "blink": fazer o LED interno do Arduino piscar
 
 Para facilitar o aprendizado, desenvolvi um código que faz tanto o LED interno quanto o LED externo piscarem juntos. Assim, é possível visualizar claramente a diferença entre controlar o LED embutido na placa e um LED externo conectado ao pino digital.
 
-Você pode acessar o código deste projeto [aqui](Aula1/piscando.ino) e conferir um vídeo de demonstração [aqui](Aula1/ponderada.mp4). Para mais detalhes sobre a configuração e montagem, siga o tutorial oficial: https://github.com/InteliContent/M4/blob/main/Tutorial-Semana01.md
+Você pode acessar o código deste projeto [aqui](Aula1/piscando.ino) e conferir um vídeo de demonstração [aqui](Aula1/ponderada.mp4).
+
+Também criei uma segunda versão do projeto, indo além do básico: um semáforo simples utilizando três LEDs. Você pode acessar o código dessa versão [aqui](Aula1/semafaro.ino) e assistir ao vídeo de demonstração [aqui](Aula1/semafaro.mp4).
+
+Para mais detalhes sobre a configuração e montagem, siga o tutorial oficial: https://github.com/InteliContent/M4/blob/main/Tutorial-Semana01.md
