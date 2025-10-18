@@ -1,14 +1,41 @@
 # Iot - Módulo 1
 
 ## Primeira Aula
-Na primeira aula do módulo de IoT, aprendemos os conceitos básicos de programação em Arduino utilizando C++ e tivemos nosso primeiro contato com eletrônica.
 
-O projeto inicial foi o clássico "blink": fazer o LED interno do Arduino piscar, para entender como funcionam comandos básicos e o ambiente de desenvolvimento (Arduino IDE). Em seguida, evoluímos para controlar um LED externo conectado à protoboard, aprendendo sobre circuitos simples e o uso de componentes eletrônicos.
+Na primeira aula do módulo de IoT, demos os primeiros passos em programação com Arduino (C++) e eletrônica básica. Dois projetos práticos foram desenvolvidos e estão disponíveis na pasta `Aula1` deste repositório, cada um acompanhado de um vídeo de demonstração logo abaixo das explicações.
 
-Para facilitar o aprendizado, desenvolvi um código que faz tanto o LED interno quanto o LED externo piscarem juntos. Assim, é possível visualizar claramente a diferença entre controlar o LED embutido na placa e um LED externo conectado ao pino digital.
+### Projeto 1: Piscar LED Interno e Externo
+O primeiro projeto é o clássico "blink", mas com um diferencial: além de fazer o LED interno do Arduino piscar, também controlamos um LED externo conectado à protoboard. Isso permite comparar, na prática, o funcionamento do LED embutido e de um LED externo, além de reforçar conceitos de circuitos simples e uso da IDE Arduino.
 
-Você pode acessar o código deste projeto [aqui](Aula1/piscando.ino) e conferir um vídeo de demonstração [aqui](Aula1/ponderada.mp4).
+Você pode acessar o código deste projeto [aqui](Aula1/piscando.ino). Logo abaixo, está o vídeo de demonstração, mostrando o funcionamento do código em tempo real:
 
-Também criei uma segunda versão do projeto, indo além do básico: um semáforo simples utilizando três LEDs. Você pode acessar o código dessa versão [aqui](Aula1/semafaro.ino) e assistir ao vídeo de demonstração [aqui](Aula1/semafaro.mp4).
+<div align="center">
+    <sup>Vídeo demonstração: LED Interno e Externo piscando</sup>
 
-Para mais detalhes sobre a configuração e montagem, siga o tutorial oficial: https://github.com/InteliContent/M4/blob/main/Tutorial-Semana01.md
+  <video src="Aula1/ponderada.mp4" controls width="480">
+    Seu navegador não suporta a tag de vídeo. Você pode assistir ao vídeo diretamente <a href="Aula1/ponderada.mp4">aqui</a>.
+  </video>
+
+  <sub>Caso o vídeo não apareça acima, você pode acessá-lo diretamente [aqui](Aula1/ponderada.mp4)</sub>
+</div>
+
+---
+
+### Projeto 2: Semáforo com Três LEDs
+O segundo projeto propõe um desafio extra: simular um semáforo utilizando três LEDs (vermelho, amarelo e verde). O objetivo é exercitar lógica de programação, temporização e montagem de circuitos um pouco mais complexos.
+
+O código deste projeto está disponível [aqui](Aula1/semafaro.ino). Veja a demonstração do semáforo em funcionamento no vídeo logo abaixo:
+
+<div align="center">
+    <sup>Vídeo demonstração: Semáforo com LEDs</sup>
+
+  <video src="Aula1/semafaro.mp4" controls width="480">
+    Seu navegador não suporta a tag de vídeo. Você pode assistir ao vídeo diretamente <a href="Aula1/semafaro.mp4">aqui</a>.
+  </video>
+
+  <sub>Caso o vídeo não apareça acima, você pode acessá-lo diretamente [aqui](Aula1/semafaro.mp4)</sub>
+</div>
+
+---
+
+Para mais detalhes sobre a configuração, montagem dos circuitos e dicas extras, consulte o tutorial oficial: https://github.com/InteliContent/M4/blob/main/Tutorial-Semana01.md
