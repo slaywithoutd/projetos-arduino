@@ -1,10 +1,8 @@
-# Iot - Módulo 1
-
-## Primeira Aula
+# Iot - Módulo 1 - Primeira Aula
 
 Na primeira aula do módulo de IoT, demos os primeiros passos em programação com Arduino (C++) e eletrônica básica. Dois projetos práticos foram desenvolvidos e estão disponíveis na pasta `Aula1` deste repositório, cada um acompanhado de um vídeo de demonstração logo abaixo das explicações.
 
-### Projeto 1: Piscar LED Interno e Externo
+### Piscar LED Interno e Externo
 O primeiro projeto é o clássico "blink", mas com um diferencial: além de fazer o LED interno do Arduino piscar, também controlamos um LED externo conectado à protoboard. Isso permite comparar, na prática, o funcionamento do LED embutido e de um LED externo, além de reforçar conceitos de circuitos simples e uso da IDE Arduino.
 
 Você pode acessar o código deste projeto [aqui](Aula1/piscando.ino). Logo abaixo, está o vídeo de demonstração, mostrando o funcionamento do código em tempo real:
