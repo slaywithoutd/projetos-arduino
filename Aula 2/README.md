@@ -17,7 +17,7 @@ O circuito RC foi simulado na plataforma Tinkercad para facilitar a visualizaç�
     Seu navegador não suporta a tag de vídeo. Você pode assistir ao vídeo diretamente <a href="/Aula 2/tinkercad.mp4">aqui</a>.
   </video>
 
-  <sub>Caso o vídeo não apareça acima, você pode acessá-lo diretamente [aqui](/Aula%202/tinkercad.mp4)</sub>
+  <sub>Caso o vídeo não apareça acima, você pode acessá-lo diretamente [aqui](https://youtu.be/P3mWybIVkJU)</sub>
 </div>
 
 
@@ -31,7 +31,7 @@ O circuito também foi montado fisicamente utilizando um Arduino real. Abaixo, i
     Seu navegador não suporta a tag de vídeo. Você pode assistir ao vídeo diretamente <a href="/Aula 2/circuito.mp4">aqui</a>.
   </video>
 
-  <sub>Caso o vídeo não apareça acima, você pode acessá-lo diretamente [aqui](/Aula%202/circuito.mp4)</sub>
+  <sub>Caso o vídeo não apareça acima, você pode acessá-lo diretamente [aqui]( https://youtu.be/Y09bOK-XDfA)</sub>
 </div>
 
 

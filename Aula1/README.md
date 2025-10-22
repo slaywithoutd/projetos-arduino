@@ -14,7 +14,7 @@ Você pode acessar o código deste projeto [aqui](Aula1/piscando.ino). Logo abai
     Seu navegador não suporta a tag de vídeo. Você pode assistir ao vídeo diretamente <a href="Aula1/ponderada.mp4">aqui</a>.
   </video>
 
-  <sub>Caso o vídeo não apareça acima, você pode acessá-lo diretamente [aqui](Aula1/ponderada.mp4)</sub>
+  <sub>Caso o vídeo não apareça acima, você pode acessá-lo diretamente [aqui](https://youtu.be/tBLXCoVBwRc)</sub>
 </div>
 
 ---
@@ -31,7 +31,7 @@ O código deste projeto está disponível [aqui](Aula1/semafaro.ino). Veja a dem
     Seu navegador não suporta a tag de vídeo. Você pode assistir ao vídeo diretamente <a href="Aula1/semafaro.mp4">aqui</a>.
   </video>
 
-  <sub>Caso o vídeo não apareça acima, você pode acessá-lo diretamente [aqui](Aula1/semafaro.mp4)</sub>
+  <sub>Caso o vídeo não apareça acima, você pode acessá-lo diretamente [aqui](https://youtu.be/uhJ2K3m0_LM)</sub>
 </div>
 
 ---
