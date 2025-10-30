@@ -1,5 +1,5 @@
 
-# IoT - Módulo 1 - Segunda Aula
+# IoT - Módulo 4 - Segunda Aula
 
 ## Sobre o Projeto
 

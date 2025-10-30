@@ -1,4 +1,4 @@
-# Iot - Módulo 1 - Primeira Aula
+# Iot - Módulo 4 - Primeira Aula
 
 Na primeira aula do módulo de IoT, demos os primeiros passos em programação com Arduino (C++) e eletrônica básica. Dois projetos práticos foram desenvolvidos e estão disponíveis na pasta `Aula1` deste repositório, cada um acompanhado de um vídeo de demonstração logo abaixo das explicações.
 
