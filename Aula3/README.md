@@ -76,7 +76,7 @@ Além disso, cada avaliador pode sugerir melhorias, como a inclusão de novos co
 
 | Avaliador         | Avaliação                                   | Observações                       |
 |-------------------|---------------------------------------------|-----------------------------------|
-|                   |                                             |                                   |
-|                   |                                             |                                   |
+|       Davi Duarte |             10                              |     Excelente trabalho! A implementação com ponteiros no código ficou clara e mostra domínio. A montagem está organizada e a validação dos tempos foi bem feita.corretamente.                              |
+|       Marcos Vinicius            |       10                                 |           Ficou muito bom, funcionou certinho e está bem explicado. Mas poderia ter incluido algum outro componente para enriquecer o projeto.                           |
 
 O desenvolvimento deste projeto permitiu aplicar conceitos de eletrônica e programação embarcada utilizando o ESP32 para simular o funcionamento de um semáforo real. A montagem física, aliada à lógica de controle das fases e à validação prática, proporcionou uma experiência completa e desafiadora, reforçando a importância da organização, precisão e clareza no desenvolvimento de sistemas para o controle do trânsito. Além disso, o uso de ponteiros e a busca por melhorias demonstram o potencial de evolução do projeto, que pode ser expandido com novos componentes e funcionalidades.
